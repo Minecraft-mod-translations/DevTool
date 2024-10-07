@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8DRU4y2Vhf970FXLj2P1Ek0UqmjWT+PGMJq4hxuU8YP8lz+ViXO2ob9Ud670j8x9fnkK0tYhsUz9KRut1mRc2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\Hexagon Translator Helps\\Hexagon Translator Helps\\Hexagon Translator Helps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

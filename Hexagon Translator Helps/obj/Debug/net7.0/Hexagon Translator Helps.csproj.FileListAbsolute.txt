@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\bin\Debug\net7.0\Hexagon Translator Helps.exe
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\bin\Debug\net7.0\Hexagon Translator Helps.deps.json
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\bin\Debug\net7.0\Hexagon Translator Helps.runtimeconfig.json
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\bin\Debug\net7.0\Hexagon Translator Helps.dll
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\bin\Debug\net7.0\Hexagon Translator Helps.pdb
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\obj\Debug\net7.0\Hexagon Translator Helps.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\obj\Debug\net7.0\Hexagon Translator Helps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\obj\Debug\net7.0\Hexagon Translator Helps.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\obj\Debug\net7.0\Hexagon Translator Helps.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\obj\Debug\net7.0\Hexagon Translator Helps.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\obj\Debug\net7.0\Hexagon .4608752D.Up2Date
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\obj\Debug\net7.0\Hexagon Translator Helps.dll
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\obj\Debug\net7.0\refint\Hexagon Translator Helps.dll
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\obj\Debug\net7.0\Hexagon Translator Helps.pdb
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\obj\Debug\net7.0\Hexagon Translator Helps.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Hexagon Translator Helps\Hexagon Translator Helps\obj\Debug\net7.0\ref\Hexagon Translator Helps.dll
